@@ -74,5 +74,12 @@
         "location": "SPS Tower",
         "description": "Decent food, OK happy hour",
         "recommendations": "Cheese burger...it's ok"
+    },
+    "Freshii": {
+        "skyway_access": "Y",
+        "quick": "N",
+        "location": "Gaviidae Common",
+        "description": "Fresh and nutritious meal choices that energize people on the go.",
+        "recommendations": "Pangoa Bowl - yummmm"
     }
 }
