@@ -74,5 +74,12 @@
         "location": "SPS Tower",
         "description": "Decent food, OK happy hour",
         "recommendations": "Cheese burger...it's ok"
+    },
+    "Brit's Pub": {
+        "skyway_access": "N",
+        "quick": "N",
+        "location": "Minneapolis Visitor Information Center",
+        "description": "Delightful food, OK happy hour",
+        "recommendations": "Burnt Creme"
     }
 }
