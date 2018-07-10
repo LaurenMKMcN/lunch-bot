@@ -74,5 +74,12 @@
         "location": "SPS Tower",
         "description": "Decent food, OK happy hour",
         "recommendations": "Cheese burger...it's ok"
+    },
+    "Good to Go": {
+        "skyway_access": "Y",
+        "quick": "Y",
+        "location": "U.S. Bank Plaza",
+        "description": "Fresh food with many healthy options, vegetarian and otherwise",
+        "recommendations": "Fire Roasted Kabob Bowl"
     }
 }
